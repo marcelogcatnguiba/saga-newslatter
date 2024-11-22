@@ -1,4 +1,4 @@
-namespace Newslatter.Api.Events
+namespace Newslatter.Api.Events.Base
 {
     public class Message
     {
